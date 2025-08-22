@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="mailto:fotiosoikonomou1@gmail.com">Gmail</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR_TWITTER_HERE" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer/" target="_blank">LinkedIn</a> •
+  
 </p>
 
 ---
@@ -98,7 +98,7 @@
 
 ### 🤝 Let's Connect!
 - 📧 Email: <fotiosoikonomou1@gmail.com>  
-- 💼 LinkedIn: <YOUR_LINKEDIN_HERE>  
-- 🐦 Twitter: <YOUR_TWITTER_HERE>  
+- 💼 LinkedIn: <https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer/>  
+
 
 > Interested in roles combining **React/TypeScript** on the frontend and **PHP/Drupal/Laravel** on the backend. Happy to connect!
