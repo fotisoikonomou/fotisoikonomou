@@ -12,7 +12,7 @@
 ---
 
 ### 🔎 Currently
-- 🚀Currently working  as a **Mid React Engineer at Netcompany in Greece Athens**
+- 🚀Currently working  as a **React Engineer at Netcompany in Greece Athens**
 - 🧩 Working on projects with **React + TypeScript**, **Drupal 10/11**, **Laravel**, **RTK Query**
 - 🎯 Focus: clean code, solid architecture, great DX/UX
 
