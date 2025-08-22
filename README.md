@@ -13,7 +13,7 @@
 
 ### 🔎 Currently
 - 🚀Currently working  as a **React Engineer at Netcompany in the Greek offices located in Athens**
-- 🧩 Working on projects with **React + TypeScript**,**RTK Query**
+- 🧩 Working on projects with **React + TypeScript** + **RTK Query** 
 - 🎯 Focus: clean code, solid architecture, great DX/UX
 
 ---
