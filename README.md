@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:fotiosoikonomou1@gmail.com">Gmail</a> 
-  <a href="https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer/" target="_blank">LinkedIn</a> 
   
 </p>
 
