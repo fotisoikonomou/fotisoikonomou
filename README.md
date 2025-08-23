@@ -98,7 +98,7 @@
 
 ### 🤝 Let's Connect!
 - 📧 Email: <fotiosoikonomou1@gmail.com>  
-- 💼 LinkedIn: <https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer />  
+- 💼 LinkedIn: https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer  
 
 
 > Interested in roles combining **React/TypeScript** on the frontend and **PHP/Drupal/Laravel** on the backend. Happy to connect!
