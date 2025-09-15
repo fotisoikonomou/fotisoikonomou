@@ -79,8 +79,6 @@
 - **Auth Integrations** – Keycloak, OAuth2/OIDC, GSIS (Greece)  
 - **Laravel Apps** – REST APIs, RBAC, clean architecture  
 
-> Check out my pinned repositories below 👇
-
 ---
 
 ### 🤝 Let's Connect!
