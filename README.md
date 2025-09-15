@@ -83,17 +83,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fotisoikonomou&show_icons=true&theme=default" alt="Fotis's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotisoikonomou&layout=compact" alt="Top Langs" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 - 📧 Email: <fotiosoikonomou1@gmail.com>  
 - 💼 LinkedIn: https://www.linkedin.com/in/fotios-oikonomou-full-stack-web-developer  
