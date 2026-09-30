@@ -12,7 +12,7 @@
 ---
 
 ### 🔎 Currently
-- 🚀Currently I am looking for my next Role as a **React Engineer or Full Stack Remote or Hybrid**
+- 🚀Currently I am looking for my next Role as a **React Engineer or Full Stack Engineer Remote or Hybrid**
 - 🧩 Working on projects with **React + TypeScript** + **RTK Query** 
 - 🎯 Focus: clean code, solid architecture, great DX/UX
 
